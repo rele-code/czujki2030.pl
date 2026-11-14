@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://czujki2030.pl/sitemap.xml
